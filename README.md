@@ -5,7 +5,7 @@ A simple contact list made with SQLite
 
 ## Screens Demo
 
-<img src="demo1.png" width="220" height="400"/> | <img src="demo2.png" width="220" height="400"/> | <img src="demo3.png" width="220" height="400"/> 
+<img src="demo/demo1.png" width="220" height="400"/> | <img src="demo/demo2.png" width="220" height="400"/> | <img src="demo/demo3.png" width="220" height="400"/> 
 
 ## Getting Started
 
